@@ -1,0 +1,8 @@
+
+{
+  "name": "True Companion: AI Wellness Companion",
+  "description": "An empathetic, real-time voice assistant powered by Gemini 2.5 Native Audio to support mental wellness through conversational guidance and crisis detection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
